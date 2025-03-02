@@ -1,4 +1,4 @@
-<h2>This project analyzes historical trade data from Binance accounts to evaluate trading performance using key financial metrics. The goal is to rank accounts based on profitability, risk management, and consistency, identifying the top 20 performing accounts.</h2>
+<h4>The objective of this analysis is to evaluate the trading performance of various accounts using historical trade data from Binance. The key focus areas include calculating financial metrics such as Total PnL, ROI, Sharpe Ratio, Max Drawdown, Win Rate, and overall account ranking. The final goal is to identify the top 20 performing accounts based on a weighted scoring system.</h4>
 <h3>FEATURES</h3>
 <ol>
   <li>Data Preprocessing – Exploding trade history, handling missing values, and structuring data in a tabular format.</li>
