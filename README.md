@@ -5,7 +5,7 @@
   <li>Financial Metrics Calculation – Includes Total PnL, ROI, Sharpe Ratio, Max Drawdown, Win Rate, and more.</li>
   <li>Scoring & Ranking – Weighted ranking system to identify top 20 traders.</li>
 </ol>
-<h3>Technologies Used</h3>
+<h5><strong><em>Technologies Used</em></strong></h5>
 <ul>
 🔹 Python (Pandas, NumPy)
 🔹 Data Analysis & Visualization
