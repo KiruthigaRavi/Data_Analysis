@@ -7,7 +7,7 @@
 </ol>
 <h3>Technologies Used</h3>
 <ul>
-  <li>🔹 Python (Pandas, NumPy)
+🔹 Python (Pandas, NumPy)
 🔹 Data Analysis & Visualization
 🔹 Financial Risk Metrics</li>
 </ul>
